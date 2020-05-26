@@ -1,0 +1,28 @@
+.places {
+  padding: 92px 148px 0;
+  margin: 0;
+}
+
+@media all and (min-width: 1025px) {
+  .places {
+    margin: auto;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .places {
+    padding: 92px 48px 0;
+  }
+}
+
+@media (min-width: 721px) and (max-width: 768px) {
+  .places {
+    padding: 88px 24px 0;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+  .places {
+    padding: 64px 0 0;
+  }
+}

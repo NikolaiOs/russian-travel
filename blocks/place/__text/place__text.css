@@ -1,0 +1,9 @@
+.place__text {
+
+}
+
+@media (min-width: 320px) and (max-width: 720px) {
+  .place__text {
+    margin: 0 16px;
+  }
+}
